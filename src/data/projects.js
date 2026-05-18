@@ -22,7 +22,7 @@ The project demonstrates frontend development skills, API integration, reusable 
     title: "Portfolio Website",
     desc: `A modern and responsive portfolio website built to showcase my projects, skills, and development journey. It highlights my work in frontend development, including real-world projects with React.js, API integration, and responsive UI design. The portfolio is designed with a clean user interface and optimized for performance across all devices.`,
     tech: ["React", "Tailwind"],
-    github: "#",
-    live: "#",
+    github: "https://github.com/harishkadam45/portfolio",
+    live: "https://portfolio-weld-tau-86.vercel.app/",
   },
 ];
